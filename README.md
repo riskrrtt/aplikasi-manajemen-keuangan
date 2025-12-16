@@ -161,8 +161,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Jika ada pertanyaan atau masalah:
 - 📖 Baca [Manual Book](MANUAL_BOOK.md) untuk troubleshooting
-- 🐛 Buat [Issue](https://github.com/USERNAME/aplikasi-manajemen-keuangan/issues) untuk bug report
-- 💡 Buat [Discussion](https://github.com/USERNAME/aplikasi-manajemen-keuangan/discussions) untuk ide fitur
 
 ---
 
