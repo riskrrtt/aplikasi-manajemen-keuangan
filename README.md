@@ -53,17 +53,6 @@ Buka browser dan kunjungi: **http://localhost:3000**
 | **Security** | bcryptjs, Input validation |
 | **UI/UX** | Custom CSS with modern design system |
 
-## 📱 Screenshots
-
-### Dashboard
-![Dashboard](https://via.placeholder.com/800x400/667eea/ffffff?text=Dashboard+Screenshot)
-
-### Manajemen Transaksi
-![Transactions](https://via.placeholder.com/800x400/10b981/ffffff?text=Transactions+Screenshot)
-
-### Laporan Keuangan
-![Reports](https://via.placeholder.com/800x400/f59e0b/ffffff?text=Reports+Screenshot)
-
 ## 🎯 Cara Penggunaan
 
 1. **Daftar/Login** - Buat akun baru atau login dengan akun existing
