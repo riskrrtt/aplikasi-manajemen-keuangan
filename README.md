@@ -1,27 +1,20 @@
 # 💰 Aplikasi Manajemen Keuangan Pribadi
 
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/aplikasi-manajemen-keuangan?style=social)
-![GitHub forks](https://img.shields.io/github/forks/USERNAME/aplikasi-manajemen-keuangan?style=social)
-
 Aplikasi web modern untuk mengelola keuangan pribadi dengan interface yang clean dan user-friendly. Dibangun dengan teknologi web terkini dan database SQLite untuk performa optimal.
 
 ## ✨ Fitur Utama
 
-- 🔐 **User Authentication** - Register & Login dengan password terenkripsi
-- 💰 **Manajemen Transaksi** - Tambah, edit, hapus pemasukan & pengeluaran
+- 🔐 **User Authentication** - Register & Login
 - 📊 **Dashboard Interaktif** - Ringkasan keuangan real-time dengan kartu visual
+- 💰 **Manajemen Transaksi** - Tambah, edit, hapus pemasukan & pengeluaran
 - 📈 **Laporan Bulanan** - Filter dan analisis transaksi per bulan
-- 🎨 **Modern UI/UX** - Interface responsif dengan toast notifications
-- 📱 **Responsive Design** - Optimal di desktop, tablet, dan mobile
-- 💾 **Data Persistent** - Database SQLite yang reliable dan cepat
-- 🔔 **Smart Notifications** - Toast notifications untuk feedback user
 
 ## 🚀 Quick Start
 
 ### Instalasi
 ```bash
 # Clone repository
-git clone https://github.com/USERNAME/aplikasi-manajemen-keuangan.git
+git clone https://github.com/riskrrtt/aplikasi-manajemen-keuangan.git
 
 # Masuk ke folder proyek
 cd aplikasi-manajemen-keuangan
@@ -39,9 +32,6 @@ Buka browser dan kunjungi: **http://localhost:3000**
 ## 📖 Dokumentasi Lengkap
 
 - 📚 **[Manual Book Lengkap](MANUAL_BOOK.md)** - Panduan penggunaan detail dengan troubleshooting
-- 🚀 **[Quick Start Guide](USER_GUIDE.md)** - Panduan cepat untuk memulai
-- 🔧 **[Technical Documentation](TECHNICAL_DOCS.md)** - Dokumentasi teknis untuk developer
-- 📤 **[GitHub Upload Guide](GITHUB_UPLOAD_GUIDE.md)** - Cara upload proyek ke GitHub
 
 ## 🛠️ Tech Stack
 
